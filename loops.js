@@ -1,4 +1,4 @@
-function doWhileLoop(`num += 1`)
-  console.log incrementVariable("I run once regardless.")for ([initialization]; [condition]; [iteration]) {
-  [loopBody];
+function forLoop (loop)
+  for (let i = 0; i < 25; i++)
+{
 }
