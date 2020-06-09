@@ -1,1 +1,1 @@
-function doWhileLoop
+function doWhileLoop(`num += 1`)
